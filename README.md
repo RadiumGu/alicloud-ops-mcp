@@ -2,6 +2,10 @@
 
 一个用于 Amazon Q CLI 的阿里云操作 MCP 服务器，支持 ECS、VPC、RDS、OSS、CloudMonitor、OOS 等服务。
 
+<a href="https://glama.ai/mcp/servers/@RadiumGu/alicloud-ops-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@RadiumGu/alicloud-ops-mcp/badge" alt="Alibaba Cloud Operations Server MCP server" />
+</a>
+
 [English](README_EN.md) | 中文
 
 ## 系统要求
